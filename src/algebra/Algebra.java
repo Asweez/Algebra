@@ -16,6 +16,7 @@ public class Algebra {
 		 }
 		 if(!flag){
 			 System.out.println(i + " is a prime number");
+			 System.out.println("I Like potatoes");
 		 }
 	 }
 }
